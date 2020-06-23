@@ -128,6 +128,8 @@ namespace Accountwin
         {
             input_login.Clear();
             input_newpassword.Clear();
+            //////////////
+            ////////////
         }
     }
 }
